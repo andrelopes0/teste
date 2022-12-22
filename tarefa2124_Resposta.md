@@ -26,7 +26,7 @@
 
 |CT|Valor de Entrada|Resultado Esperado|Classe Equivalência|
 |--|--|--|--|
-|CT07|5.99,5.99,32,8|Recuperação|CE02,CE04,CE07,CE11,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,C
+|CT07|5.99,5.99,32,8|Recuperação|CE02,CE04,CE07,CE11,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,CE37,CE41|
 
 |CT|Valor de Entrada|Resultado Esperado|Classe Equivalência|
 |--|--|--|--|
