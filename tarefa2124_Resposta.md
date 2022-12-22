@@ -2,11 +2,11 @@
 
 |CT|Valor de Entrada|Resultado Esperado|Classe Equivalência|
 |--|--|--|--|
-|CT01|-0.01,-0,01|Valores Inválidos|CE02,CE04,CE06,CE10,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,CE37,CE38|
+|CT01|-0.01,-0,01,32,8|Valores Inválidos|CE02,CE04,CE06,CE10,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,CE37,CE38|
 
 |CT|Valor de Entrada|Resultado Esperado|Classe Equivalência|
 |--|--|--|--|
-|CT02|0.01,32,8|Reprovado por Media|CE02,CE04,CE07,CE11,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,CE37,CE40|
+|CT02|0.01,0.01,32,8|Reprovado por Media|CE02,CE04,CE07,CE11,CE13,CE14,CE17,CE20,CE23,CE24,CE27,CE29,CE30,CE33,CE37,CE40|
 
 |CT|Valor de Entrada|Resultado Esperado|Classe Equivalência|
 |--|--|--|--|
