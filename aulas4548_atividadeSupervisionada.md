@@ -19,8 +19,7 @@ RESPOSTAS
 
 ![GFC_Avaliação_Escolar](https://user-images.githubusercontent.com/40575125/214726929-33a39af3-ade3-4c07-9b6f-3e02cc25cac7.png)
 
-
-3.2
+3.2.
 
 CAMINHO 1: AL : nota1 = -10.00
 CAMINHO 2: ABL : nota1 = 11.00
@@ -35,7 +34,7 @@ CAMINHO 10: ABCDEFGHIJKMOP : nota1 = 2.00, nota2 = 3.00, falta = 0.00, carga = 6
 CAMINHO 11: ABCDEFGHIJKMOQRS : nota1 = 6.00, nota2 = 3.00, falta = 0.00, carga = 64.00
 CAMINHO 12: ABCDEFGHIJKMOQRT : nota1 = 6.00, nota2 = 9.00, falta = 0.00, carga = 64.00
 
-3.3 
+3.3.
 
 C = ARCOS - NÓS + 2
 C = 30 - 20 + 2 = 12
