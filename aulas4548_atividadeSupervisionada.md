@@ -13,3 +13,6 @@ INSTRUÇÕES:
 1. Esta tarefa é individual;
 2. Deve ser feita neste mesmo arquivo. Adicione aqui a imagem do GFC.
 2. O prazo para entrega é as 23h59min do dia 25/01/2023.
+
+RESPOSTAS
+3.1 ![GFC_Avaliação_Escolar](https://user-images.githubusercontent.com/40575125/214725161-bf08e8ad-5869-4164-99ff-1061968f6804.png)
