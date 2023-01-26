@@ -22,16 +22,27 @@ RESPOSTAS
 3.2.
 
 CAMINHO 1: AL : nota1 = -10.00
+
 CAMINHO 2: ABL : nota1 = 11.00
+
 CAMINHO 3: ABCL : nota1 = 2.00, nota2 = -10.00
+
 CAMINHO 4: ABCDL : nota1 = 2.00, nota2 = 11.00
+
 CAMINHO 5: ABCDEL : nota1 = 2.00, nota2 = 9.00, falta = -8.00
+
 CAMINHO 6: ABCDEFL : nota1 = 2.00, nota2 = 9.00, falta = 200.00, carga = 64.00
+
 CAMINHO 7: ABCDEFGL : nota1 = 2.00, nota2 = 9.00, falta = 0, carga = 0
+
 CAMINHO 8: ABCDEFGHIJKL : nota1 = 2.00, nota2 = 9.00, falta = 8.00, carga = 100.00
+
 CAMINHO 9: ABCDEFGHIJKMN : nota1 = 2.00, nota2 = 9.00, falta = 24.00, carga = 64.00
+
 CAMINHO 10: ABCDEFGHIJKMOP : nota1 = 2.00, nota2 = 3.00, falta = 0.00, carga = 64.00
+
 CAMINHO 11: ABCDEFGHIJKMOQRS : nota1 = 6.00, nota2 = 3.00, falta = 0.00, carga = 64.00
+
 CAMINHO 12: ABCDEFGHIJKMOQRT : nota1 = 6.00, nota2 = 9.00, falta = 0.00, carga = 64.00
 
 3.3.
